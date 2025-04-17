@@ -1,4 +1,4 @@
 <?php 
-//create a server from remote
-$server = "Server";
+//Modify on local
+$server = "Local Server";
 echo $server;
